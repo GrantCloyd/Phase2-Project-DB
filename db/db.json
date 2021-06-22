@@ -227,5 +227,27 @@
         }
       }
     }
+  ],
+  "reviews": [
+    {
+      "id": 76779,
+      "userReviews": [
+        {
+          "rating": "0",
+          "comment": "this sucks",
+          "id": 1
+        },
+        {
+          "rating": "2",
+          "comment": "this sucks more",
+          "id": 2
+        },
+        {
+          "rating": "5",
+          "comment": "this sucks more a lot\n",
+          "id": 3
+        }
+      ]
+    }
   ]
 }
