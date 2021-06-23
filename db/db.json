@@ -115,66 +115,117 @@
       }
     },
     {
-      "id": 802,
-      "url": "https://www.tvmaze.com/shows/802/wwe-monday-night-raw",
-      "name": "WWE Monday Night RAW",
-      "type": "Sports",
+      "id": 39235,
+      "url": "https://www.tvmaze.com/shows/39235/a-confession",
+      "name": "A Confession",
+      "type": "Scripted",
       "language": "English",
-      "genres": [],
-      "status": "Running",
-      "runtime": 180,
-      "averageRuntime": 181,
-      "premiered": "1993-01-11",
-      "officialSite": "http://www.wwe.com/",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "status": "Ended",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2019-09-02",
+      "officialSite": "https://www.itv.com/hub/a-confession/2a5507a0003",
       "schedule": {
-        "time": "20:00",
+        "time": "21:00",
         "days": [
           "Monday"
         ]
       },
       "rating": {
-        "average": 7.7
+        "average": 7.5
       },
-      "weight": 92,
+      "weight": 80,
       "network": {
-        "id": 30,
-        "name": "USA Network",
+        "id": 35,
+        "name": "ITV",
         "country": {
-          "name": "United States",
-          "code": "US",
-          "timezone": "America/New_York"
+          "name": "United Kingdom",
+          "code": "GB",
+          "timezone": "Europe/London"
         }
       },
-      "webChannel": {
-        "id": 15,
-        "name": "WWE Network",
-        "country": {
-          "name": "United States",
-          "code": "US",
-          "timezone": "America/New_York"
-        }
-      },
+      "webChannel": null,
       "dvdCountry": null,
       "externals": {
-        "tvrage": 6659,
-        "thetvdb": 76779,
-        "imdb": "tt0185103"
+        "tvrage": null,
+        "thetvdb": 355161,
+        "imdb": "tt9131050"
       },
       "image": {
-        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/178/445311.jpg",
-        "original": "https://static.tvmaze.com/uploads/images/original_untouched/178/445311.jpg"
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/210/525047.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/210/525047.jpg"
       },
-      "summary": "<p><b>WWE Monday Night RAW</b> is World Wrestling Entertainment's (formerly the WWF and the WWWF before that) premiere wrestling event and brand. Since its launch in 1993, WWE Monday Night RAW continues to air live on Monday nights. It is generally seen as the company's flagship program due to its prolific history, high ratings, weekly live format, and emphasis on pay-per-views. Monday Night RAW is high profile enough to attract frequent visits from celebrities who usually serve as guest hosts for a single live event. Since its first episode, the show has been broadcast live or recorded from more than 197 different arenas in 165 cities and towns in seven different nations: including the United States, Canada, the United Kingdom twice a year, Afghanistan for a special Tribute to the Troops, Germany, Japan, Italy and Mexico.</p>",
-      "updated": 1623402819,
+      "summary": "<p><b>A Confession</b> tells the story of how Detective Superintendent Steve Fulcher deliberately breached police procedure and protocol to catch a killer, a decision that ultimately cost him his career and reputation.</p>",
+      "updated": 1590223892,
       "_links": {
         "self": {
-          "href": "https://api.tvmaze.com/shows/802"
+          "href": "https://api.tvmaze.com/shows/39235"
         },
         "previousepisode": {
-          "href": "https://api.tvmaze.com/episodes/2090082"
+          "href": "https://api.tvmaze.com/episodes/1704329"
+        }
+      }
+    },
+    {
+      "id": 713,
+      "url": "https://www.tvmaze.com/shows/713/spongebob-squarepants",
+      "name": "SpongeBob SquarePants",
+      "type": "Animation",
+      "language": "English",
+      "genres": [
+        "Comedy",
+        "Children"
+      ],
+      "status": "Running",
+      "runtime": 15,
+      "averageRuntime": 14,
+      "premiered": "1999-05-01",
+      "officialSite": "http://www.nick.com/spongebob-squarepants/",
+      "schedule": {
+        "time": "11:00",
+        "days": [
+          "Saturday"
+        ]
+      },
+      "rating": {
+        "average": 8.6
+      },
+      "weight": 95,
+      "network": {
+        "id": 27,
+        "name": "Nickelodeon",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        }
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": 5304,
+        "thetvdb": 75886,
+        "imdb": "tt0206512"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/202/505278.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/505278.jpg"
+      },
+      "summary": "<p>Come follow the adventures of the world's most lovable sponge and his starfish sidekick! Though they have the best intentions, SpongeBob and Patrick are always causing trouble… and plenty of laughs!<br /><br />When he's not at the Krusty Krab grilling up some epic Krabby Patties, SpongeBob can be found jellyfishing with Patrick, blowing bubbles, or annoying his favorite neighbor, Squidward!<br /><br />Bikini Bottom is home to the coolest creatures under the sea, and you CAN'T miss out on any of their adventures. Is mayonnaise an instrument? Watch <i>SpongeBob SquarePants</i> to find out!<br /><br />Are you ready, kids? AYE AYE CAPTAIN!</p>",
+      "updated": 1624341920,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/713"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2067514"
         },
         "nextepisode": {
-          "href": "https://api.tvmaze.com/episodes/2090083"
+          "href": "https://api.tvmaze.com/episodes/2117758"
         }
       }
     }
