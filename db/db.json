@@ -169,65 +169,6 @@
           "href": "https://api.tvmaze.com/episodes/1704329"
         }
       }
-    },
-    {
-      "id": 713,
-      "url": "https://www.tvmaze.com/shows/713/spongebob-squarepants",
-      "name": "SpongeBob SquarePants",
-      "type": "Animation",
-      "language": "English",
-      "genres": [
-        "Comedy",
-        "Children"
-      ],
-      "status": "Running",
-      "runtime": 15,
-      "averageRuntime": 14,
-      "premiered": "1999-05-01",
-      "officialSite": "http://www.nick.com/spongebob-squarepants/",
-      "schedule": {
-        "time": "11:00",
-        "days": [
-          "Saturday"
-        ]
-      },
-      "rating": {
-        "average": 8.6
-      },
-      "weight": 95,
-      "network": {
-        "id": 27,
-        "name": "Nickelodeon",
-        "country": {
-          "name": "United States",
-          "code": "US",
-          "timezone": "America/New_York"
-        }
-      },
-      "webChannel": null,
-      "dvdCountry": null,
-      "externals": {
-        "tvrage": 5304,
-        "thetvdb": 75886,
-        "imdb": "tt0206512"
-      },
-      "image": {
-        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/202/505278.jpg",
-        "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/505278.jpg"
-      },
-      "summary": "<p>Come follow the adventures of the world's most lovable sponge and his starfish sidekick! Though they have the best intentions, SpongeBob and Patrick are always causing trouble… and plenty of laughs!<br /><br />When he's not at the Krusty Krab grilling up some epic Krabby Patties, SpongeBob can be found jellyfishing with Patrick, blowing bubbles, or annoying his favorite neighbor, Squidward!<br /><br />Bikini Bottom is home to the coolest creatures under the sea, and you CAN'T miss out on any of their adventures. Is mayonnaise an instrument? Watch <i>SpongeBob SquarePants</i> to find out!<br /><br />Are you ready, kids? AYE AYE CAPTAIN!</p>",
-      "updated": 1624341920,
-      "_links": {
-        "self": {
-          "href": "https://api.tvmaze.com/shows/713"
-        },
-        "previousepisode": {
-          "href": "https://api.tvmaze.com/episodes/2067514"
-        },
-        "nextepisode": {
-          "href": "https://api.tvmaze.com/episodes/2117758"
-        }
-      }
     }
   ],
   "reviews": [
@@ -248,6 +189,61 @@
           "rating": "5",
           "comment": "this sucks more a lot\n",
           "id": 3
+        }
+      ]
+    },
+    {
+      "id": "352440",
+      "userReviews": [
+        {
+          "rating": "6",
+          "comment": "Critics were right - should be 5.9\n",
+          "id": "4GSh58ePRh8KJbnI3tSdL"
+        }
+      ]
+    },
+    {
+      "id": "355161",
+      "userReviews": [
+        {
+          "rating": "1",
+          "comment": "blafhf",
+          "id": "oIuwBRHe2qKoPDb8oRvWK"
+        }
+      ]
+    },
+    {
+      "id": "374470",
+      "userReviews": [
+        {
+          "rating": "3",
+          "comment": "Test",
+          "id": "3cJr7GqEuSiXMNf34cPVw"
+        },
+        {
+          "rating": "6",
+          "comment": "Testing to add",
+          "id": "Hn2h0fyNse9_TCfrlwXLo"
+        },
+        {
+          "rating": "5",
+          "comment": "asdjkhas",
+          "id": "qIOIziaxotC3MOMDL-Tq7"
+        },
+        {
+          "rating": "2",
+          "comment": "asdasdasdasdasd",
+          "id": "rOIrPY1hxaYt_B7mq0bew"
+        }
+      ]
+    },
+    {
+      "id": "334824",
+      "userReviews": [
+        {
+          "rating": "8",
+          "comment": "Make a review",
+          "id": "nne6NI9fz8zaoMoBGvBiG"
         }
       ]
     }
