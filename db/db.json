@@ -169,6 +169,7 @@
           "href": "https://api.tvmaze.com/episodes/1704329"
         }
       }
+<<<<<<< HEAD
     },
     {
       "id": 713,
@@ -508,6 +509,8 @@
           "href": "https://api.tvmaze.com/episodes/2107157"
         }
       }
+=======
+>>>>>>> 15c6611a7aad016df5cfa974a635c8b5f4fc164b
     }
   ],
   "reviews": [
@@ -532,6 +535,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "id": "79535",
       "userReviews": [
         {
@@ -548,6 +552,14 @@
           "rating": "0",
           "comment": "Worst review ever.",
           "id": "Aml7P0t8gOaFo25l7fumZ"
+=======
+      "id": "352440",
+      "userReviews": [
+        {
+          "rating": "6",
+          "comment": "Critics were right - should be 5.9\n",
+          "id": "4GSh58ePRh8KJbnI3tSdL"
+>>>>>>> 15c6611a7aad016df5cfa974a635c8b5f4fc164b
         }
       ]
     },
@@ -555,19 +567,59 @@
       "id": "355161",
       "userReviews": [
         {
+<<<<<<< HEAD
           "rating": "3",
           "comment": "I don't like this show.",
           "id": "oTna4TbXyaNerhi3ymqL0"
+=======
+          "rating": "1",
+          "comment": "blafhf",
+          "id": "oIuwBRHe2qKoPDb8oRvWK"
         }
       ]
     },
     {
+      "id": "374470",
+      "userReviews": [
+        {
+          "rating": "3",
+          "comment": "Test",
+          "id": "3cJr7GqEuSiXMNf34cPVw"
+        },
+        {
+          "rating": "6",
+          "comment": "Testing to add",
+          "id": "Hn2h0fyNse9_TCfrlwXLo"
+        },
+        {
+          "rating": "5",
+          "comment": "asdjkhas",
+          "id": "qIOIziaxotC3MOMDL-Tq7"
+        },
+        {
+          "rating": "2",
+          "comment": "asdasdasdasdasd",
+          "id": "rOIrPY1hxaYt_B7mq0bew"
+>>>>>>> 15c6611a7aad016df5cfa974a635c8b5f4fc164b
+        }
+      ]
+    },
+    {
+<<<<<<< HEAD
       "id": "351912",
       "userReviews": [
         {
           "rating": "0",
           "comment": "ehh",
           "id": "dttL1xTC-eBorS8ldjwlS"
+=======
+      "id": "334824",
+      "userReviews": [
+        {
+          "rating": "8",
+          "comment": "Make a review",
+          "id": "nne6NI9fz8zaoMoBGvBiG"
+>>>>>>> 15c6611a7aad016df5cfa974a635c8b5f4fc164b
         }
       ]
     }
