@@ -177,6 +177,286 @@
           "href": "https://api.tvmaze.com/episodes/2090083"
         }
       }
+    },
+    {
+      "id": 38339,
+      "url": "https://www.tvmaze.com/shows/38339/a-teacher",
+      "name": "A Teacher",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Drama"
+      ],
+      "status": "Ended",
+      "runtime": 30,
+      "averageRuntime": 27,
+      "premiered": "2020-11-10",
+      "officialSite": "https://www.hulu.com/series/a-teacher-1c871218-05b1-4c66-a22f-260b2cb9bbf9",
+      "schedule": {
+        "time": "",
+        "days": [
+          "Tuesday"
+        ]
+      },
+      "rating": {
+        "average": 5.9
+      },
+      "weight": 92,
+      "network": null,
+      "webChannel": {
+        "id": 2,
+        "name": "Hulu",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        }
+      },
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 352440,
+        "imdb": "tt10680614"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/681431.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/681431.jpg"
+      },
+      "summary": "<p><b>A Teacher</b> examines the complexities and consequences of an illegal relationship between a female teacher, Claire and her male high school student, Eric. Dissatisfied in their own lives, Claire and Eric discover an undeniable escape in each other, but their relationship accelerates faster than anticipated and the permanent damage becomes impossible to ignore.</p>",
+      "updated": 1609292623,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/38339"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/1968004"
+        }
+      }
+    },
+    {
+      "id": 39235,
+      "url": "https://www.tvmaze.com/shows/39235/a-confession",
+      "name": "A Confession",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "status": "Ended",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2019-09-02",
+      "officialSite": "https://www.itv.com/hub/a-confession/2a5507a0003",
+      "schedule": {
+        "time": "21:00",
+        "days": [
+          "Monday"
+        ]
+      },
+      "rating": {
+        "average": 7.5
+      },
+      "weight": 80,
+      "network": {
+        "id": 35,
+        "name": "ITV",
+        "country": {
+          "name": "United Kingdom",
+          "code": "GB",
+          "timezone": "Europe/London"
+        }
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 355161,
+        "imdb": "tt9131050"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/210/525047.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/210/525047.jpg"
+      },
+      "summary": "<p><b>A Confession</b> tells the story of how Detective Superintendent Steve Fulcher deliberately breached police procedure and protocol to catch a killer, a decision that ultimately cost him his career and reputation.</p>",
+      "updated": 1590223892,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/39235"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/1704329"
+        }
+      }
+    },
+    {
+      "id": 43384,
+      "url": "https://www.tvmaze.com/shows/43384/a-linterieur",
+      "name": "À l'intérieur",
+      "type": "Scripted",
+      "language": "French",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "status": "Ended",
+      "runtime": 50,
+      "averageRuntime": 50,
+      "premiered": "2019-08-26",
+      "officialSite": "https://www.france.tv/france-2/a-l-interieur/",
+      "schedule": {
+        "time": "21:00",
+        "days": [
+          "Monday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 81,
+      "network": {
+        "id": 106,
+        "name": "France 2",
+        "country": {
+          "name": "France",
+          "code": "FR",
+          "timezone": "Europe/Paris"
+        }
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 351912,
+        "imdb": "tt10795846"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/257/642901.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/257/642901.jpg"
+      },
+      "summary": "<p>The day before she is due to leave her psychiatric clinic, a young woman is found dead. Ana's heart has been torn out. Angèle, 29, handles the investigation. It is her first case and she will be working alone. A psychiatric clinic is not the kind of place to send an entire police team. It is not easy to question ‘mad' people and insanity is disturbing and repellent. But not for Angèle. She feels comfortable ‘inside' and finds the inmates engaging, lively and amusing – almost more than the ‘normal' people she meets every day in the outside world. Yet the case is genuinely baffling. Who should she believe? How can she tell the truth from lies? What is the relationship between staff and patients? And the Santis, the psychiatrist couple running the place… Who are they really? Above all, who was Ana? Her diary was found, half-destroyed. Does it hold clues to the mystery?</p>",
+      "updated": 1591043397,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/43384"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/1713729"
+        }
+      }
+    },
+    {
+      "id": 32206,
+      "url": "https://www.tvmaze.com/shows/32206/a-criacao",
+      "name": "A Criação",
+      "type": "Scripted",
+      "language": "Portuguese",
+      "genres": [
+        "Comedy"
+      ],
+      "status": "Ended",
+      "runtime": 25,
+      "averageRuntime": 25,
+      "premiered": "2017-09-19",
+      "officialSite": "http://media.rtp.pt/acriacao/",
+      "schedule": {
+        "time": "23:00",
+        "days": [
+          "Tuesday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 58,
+      "network": {
+        "id": 102,
+        "name": "RTP1",
+        "country": {
+          "name": "Portugal",
+          "code": "PT",
+          "timezone": "Europe/Lisbon"
+        }
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 334555,
+        "imdb": "tt6665062"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/128/321476.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/128/321476.jpg"
+      },
+      "summary": "<p>A fable with people and furrys about the creative industry and the commercial arts.</p>",
+      "updated": 1619978017,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/32206"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/1317423"
+        }
+      }
+    },
+    {
+      "id": 34127,
+      "url": "https://www.tvmaze.com/shows/34127/a-piramis",
+      "name": "A Piramis",
+      "type": "Game Show",
+      "language": "Hungarian",
+      "genres": [],
+      "status": "To Be Determined",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2017-12-27",
+      "officialSite": "https://tv2.hu/musoraink/a_piramis/",
+      "schedule": {
+        "time": "18:55",
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 0,
+      "network": {
+        "id": 403,
+        "name": "TV2",
+        "country": {
+          "name": "Hungary",
+          "code": "HU",
+          "timezone": "Europe/Budapest"
+        }
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": null,
+        "imdb": "tt13220298"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/140/352384.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/140/352384.jpg"
+      },
+      "summary": "<p>The brand new gameshow of TV2, The Pyramid! There are a total of 10 questions and 24 balls that separate the game pairs from the prize of up to hundreds of millions of dollars. The game is played by two pairs, competing against each other in three questions, who can collect more money. Those lucky ones who have a bigger amount can be millionaires in a single show, but it may also happen that all of their dreams are scattered in one glimpse. In the Pyramid, every decision and every answer has a serious price. Particularly when a member of the pair is separated and enters the interior of the Pyramid, leaving him alone, without any external help, to answer the quiz questions alone, while his companion leaves the balls out there. Exciting play, turn-by-turn moments, dramatic decisions, huge prizes and failures, this is offered by The Pyramid!</p>",
+      "updated": 1622919839,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/34127"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2107157"
+        }
+      }
     }
   ],
   "reviews": [
@@ -197,6 +477,46 @@
           "rating": "5",
           "comment": "this sucks more a lot\n",
           "id": 3
+        }
+      ]
+    },
+    {
+      "id": "79535",
+      "userReviews": [
+        {
+          "rating": "3",
+          "comment": "This is a bad review",
+          "id": "eOnzEeuUrS-bIBPGCNkMv"
+        },
+        {
+          "rating": "3",
+          "comment": "This is not a good review",
+          "id": "iY98hurMOJhRimuGNWtac"
+        },
+        {
+          "rating": "0",
+          "comment": "Worst review ever.",
+          "id": "Aml7P0t8gOaFo25l7fumZ"
+        }
+      ]
+    },
+    {
+      "id": "355161",
+      "userReviews": [
+        {
+          "rating": "3",
+          "comment": "I don't like this show.",
+          "id": "oTna4TbXyaNerhi3ymqL0"
+        }
+      ]
+    },
+    {
+      "id": "351912",
+      "userReviews": [
+        {
+          "rating": "0",
+          "comment": "ehh",
+          "id": "dttL1xTC-eBorS8ldjwlS"
         }
       ]
     }
