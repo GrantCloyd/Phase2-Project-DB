@@ -169,61 +169,6 @@
           "href": "https://api.tvmaze.com/episodes/1704329"
         }
       }
-    },
-    {
-      "id": 26082,
-      "url": "https://www.tvmaze.com/shows/26082/pose",
-      "name": "Pose",
-      "type": "Scripted",
-      "language": "English",
-      "genres": [
-        "Drama"
-      ],
-      "status": "Ended",
-      "runtime": 60,
-      "averageRuntime": 63,
-      "premiered": "2018-06-03",
-      "officialSite": "https://www.fxnetworks.com/shows/pose",
-      "schedule": {
-        "time": "22:00",
-        "days": [
-          "Sunday"
-        ]
-      },
-      "rating": {
-        "average": 7.6
-      },
-      "weight": 99,
-      "network": {
-        "id": 13,
-        "name": "FX",
-        "country": {
-          "name": "United States",
-          "code": "US",
-          "timezone": "America/New_York"
-        }
-      },
-      "webChannel": null,
-      "dvdCountry": null,
-      "externals": {
-        "tvrage": null,
-        "thetvdb": 346026,
-        "imdb": "tt7562112"
-      },
-      "image": {
-        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/304/762252.jpg",
-        "original": "https://static.tvmaze.com/uploads/images/original_untouched/304/762252.jpg"
-      },
-      "summary": "<p><b>Pose</b> explores the juxtaposition of several segments of life and society: the underground ball culture, the rise of the luxury Trump-era universe and the downtown social and literary scene that came to define New York in the 1980s.</p>",
-      "updated": 1623695870,
-      "_links": {
-        "self": {
-          "href": "https://api.tvmaze.com/shows/26082"
-        },
-        "previousepisode": {
-          "href": "https://api.tvmaze.com/episodes/2042201"
-        }
-      }
     }
   ],
   "reviews": [
@@ -293,6 +238,28 @@
           "reviewTitle": "Even cooler!",
           "comment": "Very nice!",
           "id": "pPAMBcpaneqjxJXfQRMjX"
+        }
+      ]
+    },
+    {
+      "id": "235081",
+      "userReviews": [
+        {
+          "rating": "9",
+          "reviewTitle": "TGIF",
+          "comment": "Great show!!!",
+          "id": "vqiDavTpnDeTutj_TTphW"
+        }
+      ]
+    },
+    {
+      "id": "323420",
+      "userReviews": [
+        {
+          "rating": "9",
+          "reviewTitle": "I love this!",
+          "comment": "Absolutely a must watch.",
+          "id": "IdIuocop-tHczXyc1M5ZC"
         }
       ]
     }
